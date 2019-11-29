@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>4281229946</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\KEYs.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Inc\TAS3251.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f0xx.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+      <file>$PROJ_DIR$\Inc\system_stm32f0xx.h</file>
+      <file>$PROJ_DIR$\Inc\ADC.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ADC.__cstat.et</file>
+      <file>$PROJ_DIR$\Inc\core_cm0.h</file>
+      <file>$PROJ_DIR$\Inc\ADAU1761_RDC2-0032_IC_1.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\SMA_filter.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_stm32f042.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\I2C.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\ADC.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\SMA_filter.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+      <file>$PROJ_DIR$\Src\stm32f0xx_it.c</file>
+      <file>$PROJ_DIR$\Inc\ADAU_PARAM_DATA.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\I2C.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f0xx.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Inc\core_cmInstr.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl6M_tln.a</file>
+      <file>$PROJ_DIR$\Inc\stm32f0xx_it.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Inc\I2C.h</file>
+      <file>$PROJ_DIR$\Inc\Board.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\config\linker\ST\stm32f042x6.icf</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f0xx_it.pbi</file>
+      <file>$PROJ_DIR$\Src\SMA_filter.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\KEYs.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Exe\RDC2-0032_DSP.hex</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\List\RDC2-0032_DSP.map</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f0xx.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\I2C.o</file>
+      <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\RDC2-0032_DSP.pbd</file>
+      <file>$PROJ_DIR$\Inc\SMA_filter.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\Inc\KEYs.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\SMA_filter.__cstat.et</file>
+      <file>$PROJ_DIR$\Inc\stm32f042x6.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f0xx_it.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\Src\startup_stm32f042.s</file>
+      <file>$PROJ_DIR$\Src\system_stm32f0xx.c</file>
+      <file>$PROJ_DIR$\Src\I2C.c</file>
+      <file>$PROJ_DIR$\Src\ADC.c</file>
+      <file>$PROJ_DIR$\Src\KEYs.c</file>
+      <file>$PROJ_DIR$\Src\main.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\ADC.o</file>
+      <file>$PROJ_DIR$\Inc\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\KEYs.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\RDC2-0032_DSP.out</file>
+      <file>$PROJ_DIR$\Inc\ADAU1761.h</file>
+      <file>$PROJ_DIR$\Inc\ADAU1761_RDC2-0032_IC_1_REG.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f0xx_it.o</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Src\stm32f0xx_it.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 50</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10 1 30 27 48 4 45 7 24 5 34 26 59 21 38 51</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26 48 10 4 27 34 5 21 38 30 1 24 45 51 59 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\SMA_filter.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27 38 4 21 34 5 30 1 44</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 44 4 27 34 5 21 38 30 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 61 39</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\startup_stm32f042.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\system_stm32f0xx.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4 1 30 27 10 45 7 24 5 34 48 59 21 38 51</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 48 10 4 27 34 5 21 38 30 1 24 45 51 59 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\I2C.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 27 29 10 4 38 48 7 24 30 21 45 28 59 34 1 51</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28 29 48 10 4 27 34 5 21 38 30 1 24 45 51 59 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\ADC.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44 38 48 7 5 27 29 10 4 24 30 21 45 8 59 34 1 51</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8 29 48 10 4 27 34 5 21 38 30 1 24 45 51 59 7 44</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\KEYs.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 0</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 10 27 48 4 38 29 7 24 30 21 45 46 59 34 1 51</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 46 29 48 10 4 27 34 5 21 38 30 1 24 45 51 59 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Src\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63 4 44 2 59 8 62 10 34 27 28 46 11 19 48 7 1 51 29 24 5 30 21 38 45</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 29 48 10 4 27 34 5 21 38 30 1 24 45 51 59 7 28 8 44 46 2 62 11 63 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\RDC2-0032_DSP.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 39</file>
+        </tool>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 36</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 31 58 41 0 23 16 13 64 40 37 42 6 25</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
